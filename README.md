@@ -1,4 +1,4 @@
-### Olá, sou a Nathalia 👋
+### Olá, eu sou a Nathalia 👋
 
 - 🧐 Buscando estágio em desevolvimento backend/mobile
 - 📚 Aprendendo Python, mas também estudando outras linguagens sob demanda
