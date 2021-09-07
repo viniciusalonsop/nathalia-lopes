@@ -9,8 +9,8 @@
 
  <div>
   <a href="https://github.com/nathalia-lopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathalia-lopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia-lopes&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=nathalia-lopes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia-lopes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -25,5 +25,5 @@
 <div>
   <a href="https://www.linkedin.com/in/nathalia-lopes-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-868102214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-![Snake animation](https://github.com/rafaballerini/nathalia-lopes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nathalia-lopes/nathalia-lopes/blob/output/github-contribution-grid-snake.svg)
 </div>
