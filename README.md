@@ -1,11 +1,10 @@
 ### Olá, sou a Nathalia 👋
 
-- 🔭 Buscando estágio em desevolvimento backend/mobile
-- 🌱 Aprendendo Python, mas também estudando outras linguagens sob demanda
-- 👯 Esteja à vontade para colaborar nos meus repositórios 
-- 🤔 Estou em transição de carreira
-- 😄 Pronouns: Ela / Dela
-- ⚡ Curiosidade: adoro assistir tudo do RuPaul
+- 🧐 Buscando estágio em desevolvimento backend/mobile
+- 📚 Aprendendo Python, mas também estudando outras linguagens sob demanda
+- 🤝 Esteja à vontade para colaborar nos meus repositórios 
+- 🤓 Estou em transição de carreira
+- 🌈 Curiosidade: adoro assistir tudo do RuPaul
 
  <div>
   <a href="https://github.com/nathalia-lopes">
