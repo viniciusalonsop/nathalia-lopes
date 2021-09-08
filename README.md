@@ -2,8 +2,7 @@
 
 - 🧐 Buscando estágio em desevolvimento backend/mobile
 - 📚 Aprendendo Python, mas também estudando outras linguagens sob demanda
-- 🤝 Esteja à vontade para colaborar nos meus repositórios 
-- 🤓 Estou em transição de carreira
+- 🤝 Fique à vontade para colaborar nos meus repositórios 
 - 🌈 Curiosidade: adoro assistir tudo do RuPaul
 
  <div>
