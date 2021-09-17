@@ -1,9 +1,10 @@
 ### Olá, eu sou a Nathalia 👋
 
-- 🧐 Buscando estágio em desevolvimento backend/mobile
-- 📚 Aprendendo Python, mas também estudando outras linguagens sob demanda
+- 🧐 Buscando estágio em desevolvimento backend
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas e Administração
+- 📚 Aprendendo Python, mas comecei a estudar Java também
 - 🤝 Fique à vontade para colaborar nos meus repositórios 
-- 🌈 Curiosidade: adoro assistir tudo do RuPaul
+- 🌈 Curiosidades: adoro assistir tudo do RuPaul, ver séries e filmes e jogar games
 
  <div>
   <a href="https://github.com/nathalia-lopes">
