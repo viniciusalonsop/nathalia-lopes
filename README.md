@@ -1,6 +1,6 @@
 ### Olá, eu sou a Nathalia 👋
 
-- 🧐 Buscando estágio em desevolvimento backend
+- 🧐 Buscando estágio em Desevolvimento Backend
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas e Administração
 - 📚 Aprendendo Python, mas comecei a estudar Java também
 - 🤝 Fique à vontade para colaborar nos meus repositórios 
