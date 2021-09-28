@@ -2,7 +2,7 @@
 
 - 🧐 Buscando estágio em Desevolvimento Backend
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas e Administração
-- 📚 Aprendendo Python, mas comecei a estudar Java também
+- 📚 Aprendendo Python
 - 🤝 Fique à vontade para colaborar nos meus repositórios 
 - 🌈 Curiosidades: adoro assistir tudo do RuPaul, ver séries e filmes e jogar games
 
