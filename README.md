@@ -1,5 +1,6 @@
 ### Hello, I'm Nathalia 👋
 
+- 🏝️ Brazilian
 - 🧐 Looking for a Backend Development Internship
 - 🎓 'Analysis and Systems Development' and 'Business Administration' student
 - 📚 Learning Java and Python
