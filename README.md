@@ -1,9 +1,9 @@
 ### Hello, I'm Nathalia // Olá, eu sou a Nathalia 👋
 
-- 🧐 Looking for a Backend Development Internship // Buscando estágio em Desenvolvimento Backend
-- 🎓 'Analysis and Systems Development' and 'Business Administration' student // Estudante de 'Análise e Desenvolvimento de Sistemas' e 'Administração'
-- 📚 Learning Java and Python // Aprendendo Java e Python
-- 🌈 Curiosities: i love to watch all RuPaul's TV shows, watch series and movies and play games // Curiosidades: adoro assistir tudo do RuPaul, ver séries e filmes e jogar games
+- 🧐 Looking for a Backend Development Internship
+- 🎓 'Analysis and Systems Development' and 'Business Administration' student
+- 📚 Learning Java and Python
+- 🌈 Curiosities: i love to watch all RuPaul's TV shows, watch series and movies and play games
 
  <div>
   <a href="https://github.com/nathalia-lopes">
