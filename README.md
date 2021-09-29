@@ -1,4 +1,4 @@
-### Olá, eu sou a Nathalia 👋
+### Hello, I'm Nathalia // Olá, eu sou a Nathalia 👋
 
 - 🧐 Looking for a Backend Development Internship // Buscando estágio em Desenvolvimento Backend
 - 🎓 'Analysis and Systems Development' and 'Business Administration' student // Estudante de 'Análise e Desenvolvimento de Sistemas' e 'Administração'
