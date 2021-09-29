@@ -1,6 +1,6 @@
 ### Olá, eu sou a Nathalia 👋
 
-- 🧐 Buscando estágio em Desenvolvimento Backend | 🇺🇸 Looking for a Backend Development Internship
+- 🧐 Buscando estágio em Desenvolvimento Backend | Looking for a Backend Development Internship
 - 🎓 Estudante de 'Análise e Desenvolvimento de Sistemas' e 'Administração' | 'Analysis and Systems Development' and 'Business Administration' student
 - 📚 Aprendendo Java e Python | Learning Java and Python 
 - 🌈 Curiosidades: adoro assistir tudo do RuPaul, ver séries e filmes e jogar games | Curiosities: i love to watch all RuPaul's TV shows, watch series and movies and play games
